@@ -1,0 +1,35 @@
+# Blender 5.2.0 LTS MTL File: 'mangekyoyo.blend'
+# www.blender.org
+
+newmtl Barrel+Bolt
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd BarrelBolt_ColorMap.png
+map_Ns BarrelBolt_RoughnessMap.png
+map_refl BarrelBolt_MetalnessMap.png
+
+newmtl Receiver+Magazine
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd ReceiverMagazine_ColorMap.png
+map_Ns ReceiverMagazine_RoughnessMap.png
+map_refl ReceiverMagazine_MetalnessMap.png
+
+newmtl Scope
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 1
+map_Kd Scope_ColorMap.png
+map_Ns Scope_RoughnessMap.png
+map_refl Scope_MetalnessMap.png
